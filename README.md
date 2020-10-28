@@ -1,2 +1,3 @@
-# Automated Playstation account creation using Python and Selenium
-he
+# Selenium Webdriver
+
+Automated Playstation account creation using Python and Selenium
